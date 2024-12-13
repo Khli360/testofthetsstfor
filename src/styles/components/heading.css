@@ -1,0 +1,9 @@
+.heading {
+  width: 100%;
+  margin: 10% 0;
+  text-shadow: 0 2px 8px #999;
+  letter-spacing: 0.2em;
+  font-weight: bold;
+  font-size: 4rem;
+  text-align: center;
+}
